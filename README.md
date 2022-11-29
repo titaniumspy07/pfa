@@ -1,2 +1,2 @@
 # pfa
-Assignment work relatd to programming for analytics.
+Assignment work related to programming for analytics.
